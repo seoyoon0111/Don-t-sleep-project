@@ -6,5 +6,5 @@
 
 - 시연 영상
 
-https://user-images.githubusercontent.com/65655570/215271963-a20af786-7e22-4853-b700-d585cc138523.mp4
+https://user-images.githubusercontent.com/65655570/215272211-546b8442-0a26-47ec-a5d2-a4e8691719c2.mp4
 
